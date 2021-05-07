@@ -10,12 +10,12 @@
 - Site: https://beja-sds3.netlify.app
 
 ## Technologies
-- ** ReactJS;
+- ReactJS;
   - Typescript
   - Bootstrap
   - React-apexcharts
 
-- ** Spring Boot;
+- Spring Boot;
   - Web
   - JPA
   - H2
