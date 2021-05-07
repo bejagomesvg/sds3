@@ -1,4 +1,4 @@
-# ![beja logo](https://github.com/bejagomesvg/sds3/frontend/src/assets/img/logo-small.png) Week Spring React 3
+# ![beja logo](https://github.com/bejagomesvg/sds3/frontend/src/assets/img/logo-small.png) Week Spring React 3Week Spring React 3
 > Free event - May 3 to 9, 2021
 > 
 
@@ -15,7 +15,7 @@
   - Bootstrap
   - React-apexcharts
 
-_ ** Spring Boot;
+- ** Spring Boot;
   - Web
   - JPA
   - H2
