@@ -31,6 +31,17 @@ html, body {
     color: var(--color-primary) !important;
 }
 
+.pagination {
+    justify-content: flex-end;
+}
+
+.congratulation {
+    display: inline;
+    width: 30%;
+    float: right;
+    text-align: justify;
+}
+
 tr {
     text-align: center;
 }
@@ -38,3 +49,10 @@ tr {
 a {
     text-decoration: none;
 }
+
+@media (max-width: 800px) {
+  .congratulation {
+    padding-top: 20px;
+    width: 100%;
+  }
+} 

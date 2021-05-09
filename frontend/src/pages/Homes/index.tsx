@@ -17,8 +17,11 @@ const Home = () => {
           <Link className="btn btn-primary btn-lg" to="/dashboard">
             Access deshboard
           </Link>
-
         </div>
+        <div className="congratulation fst-italic py-2">
+          <p>The goals that I achieved in my academic, professional and even personal life, were thanks to the affection and dedication of people like you of DevSuperior.</p>
+          <p>I will be forever grateful.</p>
+          </div>
       </div>
       <Footer />
     </>
